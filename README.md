@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kauan</h1>
 
-- 🔭 I’m currently working on personal projetcs
-- 🌱 I’m currently learning React and React Native
 <!--
 **Kasaoli/Kasaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
